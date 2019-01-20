@@ -9,9 +9,9 @@ With where query in url**
 (users, topics)
 
 **Examples:**
-- https://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=users
+- https://api.orhanaydogdu.com.tr/twitter/?process=search&search=istanbul&where=users
 
-- https://api.orhanaydogdu.com.tr/instagram/?process=search&search=istanbul&where=topics
+- https://api.orhanaydogdu.com.tr/twitter/?process=search&search=istanbul&where=topics
 
 #### **Error and suggestions for:**
 ##### info@orhanaydogdu.com.tr

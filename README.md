@@ -13,5 +13,13 @@ With where query in url**
 
 - https://api.orhanaydogdu.com.tr/twitter/?process=search&search=istanbul&where=topics
 
+------------
+
+|  And Instagram ? Yes of course ! Unlimited Instagram API  |
+| ------------ |
+| https://github.com/orhanayd/Twitter-API-Unlimited  |
+
+------------
+
 #### **Error and suggestions for:**
 ##### info@orhanaydogdu.com.tr

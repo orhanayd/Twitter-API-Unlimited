@@ -17,7 +17,7 @@ With where query in url**
 
 |  And Instagram ? Yes of course ! Unlimited Instagram API  |
 | ------------ |
-| https://github.com/orhanayd/Twitter-API-Unlimited  |
+| https://github.com/orhanayd/Instagram-API-Unlimited  |
 
 ------------
 
